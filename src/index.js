@@ -86,7 +86,7 @@ async function playRaceEngine(character1, character2){
                 character1.pontos--;
             }
             if(powerResult2 === powerResult1){
-                console.log("Empatado, nenhum ponto foi perdido");
+                console.log("Empatado, nenhum ponto foi perdido...");
             }
         }
         
